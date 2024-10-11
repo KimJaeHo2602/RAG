@@ -1,0 +1,13 @@
+﻿Model,Recall-weight,Recall-macro
+ADA,0.74,0.5
+LR,0.77,0.47
+XGB,0.74,0.49
+RF,0.84,0.47
+KNN,0.75,0.5
+SVC,0.73,0.5
+BNB,0.74,0.54
+Ridge,0.75,0.5
+DT,0.7,0.55
+GNB,0.79,0.62
+DNN,0.87,0.67
+RNN+CNN,0.91,0.73

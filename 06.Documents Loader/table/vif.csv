@@ -1,0 +1,13 @@
+﻿변수,VIF 값 
+const ,33.85699
+gender ,1.016757
+age ,2.41567
+hypertension ,1.113385
+heart_disease ,1.112824
+ever_married ,1.955416
+work_type ,1.339696
+Residence_type ,1.001191
+avg_glucose_level ,1.106672
+bmi ,1.242843
+smoking_status ,1.216712
+stroke,1.087601
