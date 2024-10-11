@@ -1,0 +1,13 @@
+﻿알고리즘,Accuracy
+XGB,0.91
+SVC,0.91
+Ridge,0.88
+LR,0.89
+ADA,0.92
+KNN,0.89
+RF,0.89
+DT,0.9
+BNB,0.84
+GNB,0.85
+DNN,0.88
+RNN+CNN,0.92
